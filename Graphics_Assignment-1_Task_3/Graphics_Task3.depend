@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650154336 source:c:\users\laptop\desktop\problem solving codes\graphics_task3\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+
+1650154500 source:c:\users\laptop\desktop\problem solving codes\graphics_assignment-1_task3_cs3,cs4_20190730_20190610\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+
